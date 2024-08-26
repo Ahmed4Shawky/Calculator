@@ -12,7 +12,7 @@ Welcome to the Calculator App! This is a modern, user-friendly calculator built 
 
 ## Screenshots
 
-![Calculator Screenshot](path/to/screenshot.png)
+![Calculator Screenshot](screenshot.png)
 
 ## Download
 
