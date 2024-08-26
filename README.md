@@ -18,7 +18,7 @@ Welcome to the Calculator App! This is a modern, user-friendly calculator built 
 
 You can download the latest version of the Calculator App by clicking the link below:
 
-[Download Calculator App](https://github.com/Ahmed4Shawky/calculator-app/releases/download/v1.0/calculator-app.zip)
+[Download Calculator App](https://github.com/Ahmed4Shawky/Calculator/releases/download/v1.0/calculator-app.zip)
 
 ## Getting Started
 
